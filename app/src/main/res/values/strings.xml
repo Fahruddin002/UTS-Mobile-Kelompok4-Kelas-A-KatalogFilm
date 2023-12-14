@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Movie Catalog</string>
+    <string name="menu_about">About</string>
+    <string name="image">Movie Cover</string>
+    <string name="txt_hint_title">Movie Title</string>
+    <string name="txt_hint_desc">Description</string>
+    <string name="rating" translatable="false">Rating</string>
+    <string name="release_date">Release Date</string>
+    <string name="original_title">Original Title</string>
+    <string name="language">Language</string>
+    <string name="popularity">Popularity</string>
+    <string name="author_2997" translatable="false">Hasymi Al Hamdi</string>
+    <string name="nim_2997" translatable="false">19.11.2997</string>
+    <string name="repository" translatable="false">Repository</string>
+    <string name="subtitle">Daily dose of popular movie in your pocket</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="back_to_parent">Back to parent</string>
+    <string name="sign_up_description">Create an account to use the features</string>
+    <string name="sign_in_description">Sign in to use the features</string>
+    <string name="placeholder_greeting_user">Hi, User!</string>
+    <string name="placeholder_user_desc">Hope your enjoy using the app!</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="re_password">Re-Password</string>
+    <string name="menu_profile">Profile</string>
+    <string name="empty_credentials">Please enter all the fields</string>
+    <string name="sign_in_success">Sign In Successfully</string>
+    <string name="sign_in_invalid">Invalid credentials</string>
+    <string name="sign_up_success">Registered successfully! Please sign in to verify!</string>
+    <string name="sign_up_failed">Registration failed</string>
+    <string name="sign_up_existed">User already exist! Please sign in</string>
+    <string name="sign_up_password_not_match">Password not matched</string>
+    <string name="sign_out_success">Sign Out Successfully</string>
+</resources>
